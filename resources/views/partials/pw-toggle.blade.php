@@ -1,0 +1,1 @@
+<button type="button" class="toggle" data-toggle-password="{{ $target }}" aria-label="Show or hide password" title="Show or hide password"><x-icon name="eye" class="i on"/><x-icon name="eye-off" class="i off"/></button>
